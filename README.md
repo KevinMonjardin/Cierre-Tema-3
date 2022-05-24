@@ -33,7 +33,7 @@ Monjardín Montaño Kevin Román
 
 En el presente repositorio se presentan los programas que se pueden correr del repositorio proporcionado por el profesor.
 
-Como primer paso se creo un makefile para optimzar el tiempo de realizacion de la tarea:
+Como primer paso se creó un Makefile para optimizar el tiempo de realización de la tarea:
 
 ```bash
 compile_file:
