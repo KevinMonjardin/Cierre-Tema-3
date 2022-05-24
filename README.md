@@ -34,8 +34,9 @@ Monjardín Montaño Kevin Román
 En el presente repositorio se presentan los programas que se pueden correr del repositorio proporcionado por el profesor.
 
 Como primer paso se creo un makefile para optimzar el tiempo de realizacion de la tarea:
-</pre>
-    </p>
+
+<pre>
+    <p align=center>
 compile_file:
 	echo "Compiling $(input_file) ..."
 	as -o $(input_file).o $(input_file).s
@@ -46,18 +47,26 @@ compile_file:
 </pre>
 
 # Programa 1: primero.s
-![image](https://user-images.githubusercontent.com/95386762/169949409-78180601-0727-4404-8cd0-751ccc89fa3f.png)
+![image](https://user-images.githubusercontent.com/95386762/169950140-1dccaa80-a3f2-4b6e-911f-e057cd37f0c1.png)
+
 
 # Programa 2: stack.s
 
+
 # Programa 3: scanfExample1.s
+
 
 # Programa 4: sum3.s
 
+
 # Programa 5: delayExample.s
+
 
 # Programa 6: div9entre3.s
 
+
 # Programa 7: hanoi.s
 
+
 # Programa 8: sum2.s
+
