@@ -54,10 +54,14 @@ compile_file:
 
 # Programa 3: scanfExample1.s
 ![image](https://user-images.githubusercontent.com/95386762/169951338-d0f75fc0-d76c-471a-b0a7-431bf5faca24.png)
+<br>
+![image](https://user-images.githubusercontent.com/95386762/169952389-e4ef6070-764d-44d3-9919-0f209619bec5.png)
 
 
 # Programa 4: sum3.s
 ![image](https://user-images.githubusercontent.com/95386762/169951494-487ce216-2cd7-4c06-a2a6-a51961632079.png)
+<br>
+![image](https://user-images.githubusercontent.com/95386762/169952446-aceeb885-9297-4c01-9f8e-0a97ac04fcbd.png)
 
 
 # Programa 5: delayExample.s
