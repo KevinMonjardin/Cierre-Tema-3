@@ -36,7 +36,7 @@ En el presente repositorio se presentan los programas que se pueden correr del r
 Como primer paso se creo un makefile para optimzar el tiempo de realizacion de la tarea:
 
 <pre>
-    <p align=center>
+    <p align=left>
 compile_file:
 	echo "Compiling $(input_file) ..."
 	as -o $(input_file).o $(input_file).s
