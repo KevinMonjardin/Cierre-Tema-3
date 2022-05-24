@@ -35,16 +35,14 @@ En el presente repositorio se presentan los programas que se pueden correr del r
 
 Como primer paso se creo un makefile para optimzar el tiempo de realizacion de la tarea:
 
-<pre>
-    <p align=left>
+```bash
 compile_file:
 	echo "Compiling $(input_file) ..."
 	as -o $(input_file).o $(input_file).s
 	gcc -o $(input_file) $(input_file).o
 	./$(input_file)
         gdb $(input_file)
-    </p>
-</pre>
+```
 
 # Programa 1: primero.s
 ![image](https://user-images.githubusercontent.com/95386762/169950140-1dccaa80-a3f2-4b6e-911f-e057cd37f0c1.png)
