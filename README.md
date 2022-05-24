@@ -74,8 +74,13 @@ compile_file:
 
 # Programa 7: hanoi.s
 ![image](https://user-images.githubusercontent.com/95386762/169951861-86035800-e9c7-4d9b-bea8-ba44b2497aab.png)
+<br>
+![image](https://user-images.githubusercontent.com/95386762/169952532-70fb59aa-e4a0-4b18-a3e1-372b4d09572d.png)
 
 
 # Programa 8: sum2.s
 ![image](https://user-images.githubusercontent.com/95386762/169951559-52fda703-be8b-4519-a078-7bbdcb30e334.png)
+<br>
+![image](https://user-images.githubusercontent.com/95386762/169952590-af09ce46-0c78-4a9c-b7c3-a12715161eb3.png)
+
 
